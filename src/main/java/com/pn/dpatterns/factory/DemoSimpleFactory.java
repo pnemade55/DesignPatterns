@@ -1,4 +1,4 @@
-package com.pn.dpatterns.factory.simple;
+package com.pn.dpatterns.factory;
 
 /**
  * created by : pnema

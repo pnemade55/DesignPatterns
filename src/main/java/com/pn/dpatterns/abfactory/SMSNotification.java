@@ -1,12 +1,12 @@
-package com.pn.dpatterns.factory.simple;
+package com.pn.dpatterns.abfactory;
 
 /**
  * created by : pnema
- * on 6/7/2021
+ * on 6/22/2021
  */
 public class SMSNotification implements Notification{
     @Override
     public void send() {
-        System.out.println("Sending an SMS.... SMS Sent");
+        System.out.println("Sending SMS... sent!!");
     }
 }
